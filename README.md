@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
- # Name : MATHAVAN V
+ # Name : HARISH S
  
- # Roll no : 212223110026
+ # Roll no : 212224230086
 
  # Date of experiment : 18/09/2025
 
